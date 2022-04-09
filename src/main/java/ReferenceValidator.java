@@ -2,9 +2,9 @@ import java.util.Arrays;
 
 public class ReferenceValidator {
 
-    //main method
+    // main method
     public static void main(String[] args) {
-        System.out.println(calculateReferenceNumber(new int[]{1,2,3}));
+
     }
 
     public static String calculateReferenceNumber(int[] invoiceNumber) {
